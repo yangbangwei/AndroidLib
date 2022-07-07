@@ -1,0 +1,8 @@
+<resources>
+    <string name="net_delay">Network connection timeout</string>
+    <string name="net_error">Network access error, please try again later</string>
+    <string name="empty">No data</string>
+    <string name="loading">Loading...</string>
+    <string name="reload">Reload</string>
+    <string name="no_net">The network is not available. Please check your network</string>
+</resources>
